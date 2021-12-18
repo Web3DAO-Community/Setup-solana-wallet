@@ -8,9 +8,9 @@
 # 📄 Content
 
 - [What is a Wallet](#What-is-a-Wallet)
-- [Understanding keypair](#Understanding-keypair)
+- [Understanding keypair](#🔑-Understanding-keypair)
 - [Phantom Wallet](#Phantom-Wallet)
-- [Setup you Phantom wallet](#Setup-you-Phantom-wallet)
+- [Setup your Phantom Wallet](#Setup-your-Phantom-wallet)
 
 
 
